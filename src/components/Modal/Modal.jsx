@@ -16,7 +16,7 @@ function Modal({ setShowModal, setIcon }) {
             <div className="flex items-start justify-between p-5 border-b border-solid border-slate-900 rounded-t">
               <h3 className="text-3xl font-semibold">Choisir une planète</h3>
               <img
-                src="https://raw.githubusercontent.com/GirardGH/Projet_2_WCS/0c86be67501b5e8fd8a277768a3cd09504f9a0d9/assets/croix.svg"
+                src="https://res.cloudinary.com/db2sa2bxv/image/upload/v1669910769/croix_1_rxrfes.svg"
                 alt="croix de fermeture"
                 className="w-7 h-7 bg-white rounded-3xl hover:rotate-45 hover:opacity-90 cursor-pointer ease-linear transition-all duration-150"
                 onClick={() => setShowModal(false)}

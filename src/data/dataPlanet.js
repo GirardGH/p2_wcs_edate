@@ -17,12 +17,12 @@ const dataPlanet = [
   {
     planetName: "Lune",
     imgPlanet:
-      "https://raw.githubusercontent.com/GirardGH/Projet_2_WCS/434819736532052355426c6e37d3c816242cb84d/assets/image-moon.webp",
+      "https://res.cloudinary.com/db2sa2bxv/image/upload/v1669900778/image-moon_1_eqs7gg.webp",
   },
   {
     planetName: "Europa",
     imgPlanet:
-      "https://raw.githubusercontent.com/GirardGH/Projet_2_WCS/434819736532052355426c6e37d3c816242cb84d/assets/image-europa.webp",
+      "https://res.cloudinary.com/db2sa2bxv/image/upload/v1669900839/image-europa_1_t5ggr2.webp",
   },
 ];
 

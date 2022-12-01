@@ -1,7 +1,3 @@
-/* eslint-disable prettier/prettier */
-/* eslint-disable no-restricted-syntax */
-/* eslint-disable react/prop-types */
-/* eslint-disable import/no-extraneous-dependencies */
 import { useState, useEffect } from "react";
 import axios from "axios";
 import Selected from "./Selected";
@@ -13,7 +9,6 @@ function Gifs({ setGifUser, selectedGif, setSelectedGif }) {
   const [value, setValue] = useState("Robot");
 
   const accessToken = import.meta.env.VITE_API_PUBLIC_KEY;
-  console.log(accessToken);
   const limit = 50;
 
   useEffect(() => {
