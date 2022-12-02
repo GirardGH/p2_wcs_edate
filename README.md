@@ -15,4 +15,4 @@
 
   <h1>OUTILS UTILISÉS</h1>
   
-  Site entièrement fais avec react, utilisation également de la librairie Swiper et Tailwind CSS. Un appel à une API à été fait également dans le tchat (sans back-end) de l'application.
+  Site entièrement fait avec react, utilisation également de la librairie Swiper et Tailwind CSS. Un appel à une API à été fait également dans le tchat (sans back-end) de l'application.
